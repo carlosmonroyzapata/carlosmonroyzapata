@@ -37,7 +37,7 @@ En mi día a día en NTT DATA, diseño flujos NLU, utilizando sistemas RAG y des
 ---
 
 ### 📫 Conectemos
-- **LinkedIn:** [linkedin.com/in/tu-perfil](www.linkedin.com/in/carlos-david-monroy-zapata)
+- **LinkedIn:** [www.linkedin.com/in/carlos-david-monroy-zapata](www.linkedin.com/in/carlos-david-monroy-zapata)
 - **Email:** monroyzapata91@hotmail.com
 - **Ubicación:** Calafell, Barcelona, España 📍
 
